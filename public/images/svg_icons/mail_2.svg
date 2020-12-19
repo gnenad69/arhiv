@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 496 496" style="enable-background:new 0 0 496 496;" xml:space="preserve" width="512px" height="512px" class=""><g><g>
+	<g>
+		<g>
+			<path d="M472,164H24c-13.255,0-24,10.745-24,24v224c0,13.255,10.745,24,24,24h448c13.255,0,24-10.745,24-24V188     C496,174.745,485.255,164,472,164z M480,412c0,4.418-3.582,8-8,8H24c-4.418,0-8-3.582-8-8V188c0-4.418,3.582-8,8-8h448     c4.418,0,8,3.582,8,8V412z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FC5185"/>
+			<path d="M448,204H328c-4.418,0-8,3.582-8,8v120c0,4.418,3.582,8,8,8h120c4.418,0,8-3.582,8-8V212     C456,207.582,452.418,204,448,204z M440,324H336V220h104V324z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FC5185"/>
+			<path d="M80,228h104c4.418,0,8-3.582,8-8s-3.582-8-8-8H80c-4.418,0-8,3.582-8,8S75.582,228,80,228z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FC5185"/>
+			<path d="M184,356H48c-4.418,0-8,3.582-8,8s3.582,8,8,8h136c4.418,0,8-3.582,8-8S188.418,356,184,356z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FC5185"/>
+			<path d="M272,260h-64.632c-4.418,0-8,3.582-8,8s3.582,8,8,8H272c4.418,0,8-3.582,8-8S276.418,260,272,260z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FC5185"/>
+			<path d="M48,276h129.536c4.418,0,8-3.582,8-8s-3.582-8-8-8H48c-4.418,0-8,3.582-8,8S43.582,276,48,276z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FC5185"/>
+			<path d="M232,308H48c-4.418,0-8,3.582-8,8s3.582,8,8,8h184c4.418,0,8-3.582,8-8S236.418,308,232,308z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FC5185"/>
+			<path d="M32,148h432c4.418,0,8-3.582,8-8s-3.582-8-8-8H32c-4.418,0-8,3.582-8,8S27.582,148,32,148z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FC5185"/>
+			<path d="M80,108h336c4.418,0,8-3.582,8-8s-3.582-8-8-8H80c-4.418,0-8,3.582-8,8S75.582,108,80,108z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FC5185"/>
+			<path d="M160,76h176c4.418,0,8-3.582,8-8s-3.582-8-8-8H160c-4.418,0-8,3.582-8,8S155.582,76,160,76z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FC5185"/>
+		</g>
+	</g>
+</g></g> </svg>
